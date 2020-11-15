@@ -1,7 +1,7 @@
 ## DIO API.Net com MongoDB
 ### Exemplo adaptado para mostrar os conhecimentos adquiridos na aula.
 
-Fiz umas alterações no projeto mostrado na aula, adaptando para a inserção e remoção de produtos. O endpoint é "**/produtos**" com o verbo **GET** ele lista os produtos e com o verbo **POST** ele adiciona um novo produto passando no corpo as informações do mesmo conforme exemplo abaixo:
+Fiz umas alterações no projeto(original https://github.com/gabrielfbarros/dotnet-mongo) do gabrielfbarros, mostrado na aula(Construindo um projeto de uma API.NET integrada ao MongoDB), adaptando para a inserção e listagem de produtos. O endpoint é "**/produtos**" com o verbo **GET** ele lista os produtos e com o verbo **POST** ele adiciona um novo produto passando no corpo as informações do mesmo conforme exemplo abaixo:
 
     {
     "Nome": "Produtos 02",
